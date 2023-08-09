@@ -1,0 +1,2 @@
+# idea-notes
+record ideas
